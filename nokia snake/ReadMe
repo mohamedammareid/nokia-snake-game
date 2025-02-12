@@ -1,0 +1,45 @@
+# Snake Game (Pygame Edition)
+
+## Description
+This is a classic Snake game built using **Pygame**. The game includes:
+- Screen wrapping (Snake moves through walls and reappears on the other side, like the old Nokia game 📱).
+- A scoring system with the highest score tracking.
+- Extra lives (Hearts ❤️) gained after eating 10 pieces of food.
+- A **Game Over** screen with options to play again or view the highest score.
+- A timer to track gameplay duration.
+
+## Installation
+### Requirements
+- Python 3.10+
+- Pygame library
+
+### Install Pygame
+Run the following command in your terminal:
+```sh
+pip install pygame
+```
+
+### Run the Game
+After installing **Pygame**, execute:
+```sh
+python snake.py
+```
+
+## Controls 🎮
+- **Arrow Keys**: Move the snake **(Up, Down, Left, Right)**
+- **Enter**: Select an option on the game-over screen
+
+## Features ✨
+- **Smooth movement** 🐍
+- **Screen wrapping** 🌍
+- **Extra lives** (1 heart for every 10 food eaten) ❤️
+- **Score and High Score Tracking** 📊
+- **Game Over screen with options to Restart or View High Score** 🔄
+
+## Future Improvements 🚀
+- Add sound effects 🎵
+- Customizable themes 🎨
+- More difficulty levels 🔥
+
+Enjoy playing! 🎮🐍
+
